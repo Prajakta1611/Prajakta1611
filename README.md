@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajakta Gawas
+👋 Hi, I’m Prajakta Gawas
 
 
 <!---
