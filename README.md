@@ -2,7 +2,7 @@
 
 
 👨‍💻 All of my projects are available at
-https://github.com/Prajakta1611
+https://github.com/Prajakta1611/Project
 
 
 👨‍💻 Portfolio
